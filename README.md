@@ -25,14 +25,6 @@
   <a href="https://komarev.com/ghpvc/?username=Riondash&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Riondash&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Spotify Playing 🎧
-
-<p align="center">
-  <a href="https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-------
-
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/Riondash"><img src="https://github-readme-stats.vercel.app/api?username=Riondash&show_icons=true&theme=radical"></a></p>
